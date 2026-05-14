@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jayesh Muley 👋</h1>
 
 <p align="center">
-  <b>AI & Backend Engineer · AWS Triple-Certified · Final Year Integrated M.Tech @ Vellore Institute of Technology</b>
+  <b>AI & Backend Engineer · AWS Triple-Certified · Pre-final Year Integrated M.Tech @ Vellore Institute of Technology</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a 3rd-year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal (CGPA 9.01/10). I build backend systems and data pipelines that are production-ready, not just demo-ready — with a focus on AWS-native architectures, event-driven design, and infrastructure as code.
+I'm a Pre-final year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal (CGPA 9.01/10). I build backend systems and data pipelines that are production-ready, not just demo-ready — with a focus on AWS-native architectures, event-driven design, and infrastructure as code.
 
 ---
 
