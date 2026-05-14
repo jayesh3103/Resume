@@ -1,70 +1,78 @@
-# 📄 Jayesh Muley — Resume
+<h1 align="center">Hi, I'm Jayesh Muley 👋</h1>
 
-This repository contains the LaTeX source of my resume, kept up-to-date and version-controlled.
+<p align="center">
+  <b>AI & Backend Engineer · AWS Triple-Certified · Final Year Integrated M.Tech @ Vellore Institute of Technology</b>
+</p>
 
-## 👤 About Me
-
-I'm an **Integrated M.Tech student in Artificial Intelligence** at VIT Bhopal University (CGPA: 9.00/10), passionate about building production-grade AI systems — from Agentic RAG pipelines to MLOps workflows and deep learning research.
-
-- 🔭 Currently working on: Agentic AI & RAG Architectures  
-- 📬 Reach me at: [jayeshvmuley@gmail.com](mailto:jayeshvmuley@gmail.com)  
-- 🌐 Portfolio: [jayeshmuley.onrender.com](https://jayeshmuley.onrender.com/)  
-- 💼 LinkedIn: [linkedin.com/in/mr-jayeshmuley](https://www.linkedin.com/in/mr-jayeshmuley/)
-
----
-
-## 🏆 Highlights
-
-- 🥈 **National Runner-Up (2nd / 7,400)** — Zelestra x AWS ML Ascend Challenge
-- 🧠 **Research paper under review** — *Neural Computing and Applications* (Springer, 2025)  
-  Residual U-Net for fetal head segmentation | Dice: **98.62%** | IoU: **97.31%**
-- 🏅 **National Recognition** — NASSCOM Gnani.AI "Automation Using Agentic AI" Challenge 2025
+<p align="center">
+  <a href="mailto:jayeshvmuley@gmail.com">📧 jayeshvmuley@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/jayeshmuley">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/jayesh3103">GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Skills
+## About Me
 
-| Category | Tools |
+I'm a 3rd-year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal (CGPA 9.01/10). I build backend systems and data pipelines that are production-ready, not just demo-ready — with a focus on AWS-native architectures, event-driven design, and infrastructure as code.
+
+---
+
+## Experience
+
+**Backend Developer Intern — Virat Merchant Pvt. Ltd.** *(Dec 2025 – Feb 2026)*
+
+- Engineered Apache Airflow DAG pipelines ingesting from 3+ AWS sources (S3, RDS, DynamoDB), cutting manual intervention to zero
+- Architected cron scheduling across 10+ pipeline stages with parallel execution, reducing end-to-end runtime by 40%
+- Achieved zero undetected failures over 3 months via structured alerting and retry logic
+
+---
+
+## Projects
+
+### [NetSpectre — Deep Packet Inspection Engine](https://github.com/jayesh3103/netspectre-dpi)
+`C++17` `Docker` `WebSockets` `libpcap` `TLS/JA3`
+
+Multi-threaded DPI engine classifying live network traffic via TLS SNI inspection with sub-1ms per-flow latency. Features JA3 fingerprinting, stateful flow tracking, real-time WebSocket dashboard with GeoIP mapping, and IDS (SYN flood + port scan detection). Published to Docker Hub.
+
+### [Serverless URL Shortener](https://github.com/jayesh3103)
+`Python` `AWS Lambda` `DynamoDB` `ElastiCache (Redis)` `Terraform` `GitHub Actions`
+
+Fully serverless URL shortening system on AWS with sub-10ms redirect latency using Redis caching. Zero-touch CI/CD via GitHub Actions. Infrastructure provisioned entirely via Terraform IaC.
+
+### [DataPulse — Scalable Data Collection Platform](https://github.com/jayesh3103)
+`Python` `Django` `AWS SQS + Lambda + S3` `Docker` `Twilio`
+
+Event-driven pipeline (S3 to SQS to Lambda) handling bulk CSV uploads across millions of records. Includes Twilio SMS alerts, Google Sheets sync, and bilingual search via Translate API. Dockerized for single-command deployment.
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
 |---|---|
-| **Languages** | Python |
-| **Domains** | Deep Learning, Machine Learning, Agentic AI, RAG, MLOps, NLP |
-| **Frameworks** | PyTorch, TensorFlow, LangChain, LangGraph, HuggingFace Transformers |
-| **ML Tools** | MLflow, DVC, Dagster, Qdrant |
-| **Databases** | MySQL, PostgreSQL |
+| Languages | Python, C++17, JavaScript, SQL |
+| Frameworks | Django, Node.js, Express.js, Apache Airflow |
+| Cloud & DevOps | AWS (Lambda, S3, SQS, DynamoDB, ElastiCache, API Gateway), Docker, Terraform, GitHub Actions |
+| Databases | PostgreSQL, DynamoDB, Redis |
+| Concepts | Event-driven pipelines, IaC, CI/CD, Multi-threading, Distributed Systems |
 
 ---
 
-## 🚀 Featured Projects
+## Certifications
 
-### [ClauseGuard](https://github.com/jayesh3103/clauseguard)
-> LangGraph · Qdrant · Groq · Streamlit · Unstructured.io
-
-Agentic RAG system that audits legal contracts using a cyclic Drafter-Critic workflow with a self-healing knowledge base.
-
-### [Jargomatic](https://github.com/jayesh3103/jargomatic)
-> Dagster · MLflow · DVC · Transformers · PyTorch · Streamlit
-
-Production-grade MLOps pipeline for automated training, versioning, and drift detection of a T5 Transformer model.
-
-### [Smart Resume Screener](https://github.com/jayesh3103/Smart-Resume-Screener)
-> FastAPI · React · PostgreSQL · SQLAlchemy · Groq API
-
-Full-stack AI recruiting platform with an asynchronous 5-stage pipeline for evidence-based resume screening and ranking.
+- AWS Certified Solutions Architect Associate (SAA-C03)
+- AWS Certified AI Practitioner (AIF-C01)
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
 ---
 
-## 📜 Certifications
+## Education
 
-- [AWS Certified AI Practitioner (AIF-C01)](https://www.credly.com/badges/30781fa2-e79b-472e-a77b-a606e8eacfa4/public_url)
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/9eb4e52d-87ee-4ef6-83ea-b8d3d6d18b60/public_url)
-- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E14E1157D87015436727B6404C0C3517518C452F1A4E7948092B08C1D2BC92E)
+**Vellore Institute of Technology** — Integrated M.Tech in Artificial Intelligence *(2022 – 2027)*
+CGPA: 9.01 / 10.0
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── my-resume.pdf      
-└── README.md            
-```
-
+<p align="center">Open to internships and collaborative projects. Feel free to reach out!</p>
