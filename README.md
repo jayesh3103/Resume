@@ -51,7 +51,7 @@ Event-driven pipeline (S3 to SQS to Lambda) handling bulk CSV uploads across mil
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, C++17, JavaScript, SQL |
+| Languages | Python, C++, JavaScript, SQL |
 | Frameworks | Django, Node.js, Express.js, Apache Airflow |
 | Cloud & DevOps | AWS (Lambda, S3, SQS, DynamoDB, ElastiCache, API Gateway), Docker, Terraform, GitHub Actions |
 | Databases | PostgreSQL, DynamoDB, Redis |
@@ -68,11 +68,5 @@ Event-driven pipeline (S3 to SQS to Lambda) handling bulk CSV uploads across mil
 
 ---
 
-## Education
-
-**Vellore Institute of Technology** — Integrated M.Tech in Artificial Intelligence *(2022 – 2027)*
-CGPA: 9.01 / 10.0
-
----
 
 <p align="center">Open to internships and collaborative projects. Feel free to reach out!</p>
